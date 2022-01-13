@@ -282,11 +282,11 @@ public class FortuneCookie {
 		return randomNum;
 	}
 
-	public static void main(String[] args) {
+/* 	public static void main(String[] args) {
 		FortuneCookie cookie = new FortuneCookie();
 		System.out.println(cookie.getCookie());
 		System.out.println(cookie.getCookies(3));
-	}
+	} */
 
 
 }
